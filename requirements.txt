@@ -1,0 +1,7 @@
+Keras==2.2.4
+numba==0.42.0
+numpy==1.16.0
+parmap==1.5.1
+scipy==1.2.0
+Shapely==1.6.4.post2
+tensorflow==1.12.0
